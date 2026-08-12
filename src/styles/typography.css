@@ -1,0 +1,8 @@
+:root{
+--font-display:'Spectral',Georgia,serif;
+--font-sans:'Sora',-apple-system,'Segoe UI',sans-serif;
+--text-xs:12px;--text-sm:14px;--text-base:16px;--text-lg:18px;--text-xl:20px;--text-2xl:24px;--text-3xl:30px;--text-4xl:38px;--text-5xl:48px;--text-6xl:60px;
+--leading-tight:1.1;--leading-snug:1.3;--leading-normal:1.5;--leading-relaxed:1.65;
+--weight-regular:400;--weight-medium:500;--weight-semibold:600;--weight-bold:700;
+--tracking-tight:-0.01em;--tracking-normal:0;--tracking-wide:0.04em;
+}
