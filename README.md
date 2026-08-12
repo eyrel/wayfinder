@@ -1,4 +1,4 @@
-# Voncierge
+# Wayfinder
 
 An AI wayfinding assistant for transit passengers at Singapore Changi Airport.
 
@@ -34,7 +34,7 @@ Wayfinder answers that question, with a number behind it.
 
 ```bash
 git clone <your-repo-url> voncierge
-cd voncierge
+cd wayfinder
 npm install
 
 cp .env.example .env.local

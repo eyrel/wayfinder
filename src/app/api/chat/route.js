@@ -129,7 +129,7 @@ RULES:
     // message — without a stop condition a confused model can loop
     // indefinitely and run up the bill on one question.
     const result = await generateText({
-      model: google("gemini-2.5-flash"),
+      model: google("gemini-flash-latest"),
       system,
       messages: conversation,
       tools: buildTools({ currentId, pace }),
